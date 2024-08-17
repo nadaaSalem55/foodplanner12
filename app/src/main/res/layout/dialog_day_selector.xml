@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/layout/dialog_day_selector.xml -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Choose Day"
+        android:textSize="20sp"
+        />
+
+    <Button
+        android:id="@+id/sundayButton"
+        style="@style/DayButton"
+        android:text="Sun"/>
+
+    <Button
+        android:id="@+id/mondayButton"
+        style="@style/DayButton"
+        android:text="Mon"/>
+
+    <Button
+        android:id="@+id/tuesdayButton"
+        style="@style/DayButton"
+        android:text="Tue"/>
+
+    <Button
+        android:id="@+id/wednesdayButton"
+        style="@style/DayButton"
+        android:text="Wed"/>
+
+    <Button
+        android:id="@+id/thursdayButton"
+        style="@style/DayButton"
+        android:text="Thu"/>
+
+    <Button
+        android:id="@+id/fridayButton"
+        style="@style/DayButton"
+        android:text="Fri"/>
+
+    <Button
+        android:id="@+id/saturdayButton"
+        style="@style/DayButton"
+        android:text="Sat"/>
+</LinearLayout>

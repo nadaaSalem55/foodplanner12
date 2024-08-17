@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">FoodPlanner</string>
+    <string name="food_planner">Food Planner</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="sign_in">Sign In</string>
+    <string name="you_already_have_an_account_login"><u>You Already have an account? Login</u></string>
+    <string name="you_don_t_have_an_account_signup"><u>You don\'t have an account? SignUp</u></string>
+    <string name="home">Home</string>
+    <string name="daily_inspiration">Daily Inspiration</string>
+    <string name="ingredient">Ingredients</string>
+    <string name="categories">Categories</string>
+    <string name="favorite">Favorite</string>
+    <string name="delete_from_favorite">Delete from favorite</string>
+    <string name="search">Search</string>
+    <string name="calender">Calender</string>
+    <string name="plan_your_meals">Plan Your Meals</string>
+    <string name="add">ADD</string>
+    <string name="sunday">Sunday</string>
+    <string name="saturday">Saturday</string>
+    <string name="monday">Monday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="countries">Countries</string>
+    <string name="search_for_meals">Search for meals</string>
+    <string name="as_a_guest">As a guest</string>
+    <string name="or">Or</string>
+    <string name="default_web_client_id">809707842387-kkbjo8ekg1d3pgsbbkbse2bb25f025ia.apps.googleusercontent.com</string>
+    <string name="steps">Steps:</string>
+</resources>
